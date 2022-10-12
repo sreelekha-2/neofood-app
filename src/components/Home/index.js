@@ -101,7 +101,7 @@ export default function Home() {
         
                   </div>
 
-              <div className='w-100 ps-2'>
+              <div className='w-100 input-search-container'>
                 <RiSearchLine className='search-icon'/>
                 <input type="search" className='search-input ms-2 poppins-font-light' placeholder='Search for restaurant, cuisine or a dish'/>
              
